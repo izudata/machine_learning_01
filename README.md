@@ -9,5 +9,5 @@ output: html_document
 
 ### Features in the dataset:
 
-| ### Feature  |  ### Description
+| **Feature**  |  **Description** |
 | 
