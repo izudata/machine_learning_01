@@ -6,7 +6,7 @@ output: html_document
 ***
 ## Title
 ***
-## 📊 Features in the Dataset
+## Features in the Dataset
 
 | **Feature**       | **Description**                                                                 |
 |-------------------|---------------------------------------------------------------------------------|
