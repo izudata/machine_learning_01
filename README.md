@@ -3,9 +3,10 @@ title: "Machine Learning Model for World Happiness Prediction"
 output: html_document
 ---
 
-***
+
 ## Title
-***
+Machine Learning Model for World Happiness Prediction
+
 ## Features in the Dataset
 
 | **Feature**       | **Description**                                                                 |
