@@ -6,3 +6,8 @@ output: html_document
 ***
 ## Title
 ***
+
+### Features in the dataset:
+
+| ### Feature  |  ### Description
+| 
